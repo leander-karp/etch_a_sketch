@@ -1,0 +1,14 @@
+.grid-item {
+    background-color: white; 
+}
+.grid-container {
+    display: grid;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    grid-gap: 1px 1px;
+    justify-content: space-between;
+}
+.colored{
+    background-color: black;
+}
